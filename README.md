@@ -35,3 +35,13 @@ PORT=your_port_number
 
 * **Frontend:** React, Vite
 * **Backend:** Node.js, Express.js, MongoDB
+
+### Implementation
+
+![image](https://github.com/user-attachments/assets/687ea333-f27d-4f36-a77b-7c278d93f714)
+
+![image](https://github.com/user-attachments/assets/20b1fb4e-22d8-4a3f-9a47-627cff1cff00)
+
+
+
+
